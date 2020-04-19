@@ -36,13 +36,23 @@
             "homepage": "https://github.com/rinvex/laravel-subscriptions/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/joaonzangoII/laravel-support"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/joaonzangoII/laravel-cacheable"
+        }
+    ],
     "require": {
         "php": ">=7.0.0",
         "illuminate/console": "^5.0.0|^6.0.0|^7.0.0",
         "illuminate/database": "^5.0.0|^6.0.0|^7.0.0",
         "illuminate/support":  "^5.0.0|^6.0.0|^7.0.0",
-        "rinvex/laravel-cacheable": "^4.0.0",
-        "rinvex/laravel-support": "^4.0.0",
+        "joaonzangoii/laravel-cacheable": "master",
+        "joaonzangoii/laravel-support": "master",
         "spatie/eloquent-sortable": "^3.7.0",
         "spatie/laravel-sluggable": "^2.2.0",
         "spatie/laravel-translatable": "^4.2.0"
