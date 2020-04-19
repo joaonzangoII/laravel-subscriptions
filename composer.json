@@ -53,7 +53,7 @@
         "illuminate/support":  "^5.0.0|^6.0.0|^7.0.0",
         "joaonzangoii/laravel-cacheable": "master",
         "joaonzangoii/laravel-support": "master",
-        "spatie/eloquent-sortable": "^3.7.0",
+        "spatie/eloquent-sortable": "^3.4.0",
         "spatie/laravel-sluggable": "^2.2.0",
         "spatie/laravel-translatable": "^4.0.0"
     },
