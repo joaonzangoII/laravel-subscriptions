@@ -91,6 +91,9 @@
         "laravel": {
             "providers": [
                 "Rinvex\\Subscriptions\\Providers\\SubscriptionsServiceProvider"
+            ],
+            "dont-discover": [
+                "spatie/laravel-translatable"
             ]
         }
     },
