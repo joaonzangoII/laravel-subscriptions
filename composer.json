@@ -44,6 +44,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/joaonzangoII/laravel-cacheable"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/joaonzangoII/laravel-schemaless-attributes"
         }
     ],
     "require": {
@@ -54,7 +58,7 @@
         "joaonzangoii/laravel-cacheable": "master",
         "joaonzangoii/laravel-support": "master",
         "spatie/eloquent-sortable": "^3.4.0",
-        "spatie/laravel-sluggable": "^2.2.0",
+        "spatie/laravel-sluggable": "^2.1.6",
         "spatie/laravel-translatable": "^4.0.0"
     },
     "require-dev": {
